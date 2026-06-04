@@ -21,7 +21,7 @@ $is_admin = isset($_SESSION['admin']) && $_SESSION['admin'];
     /* Основные цвета: синий и серебристый (как на странице регистрации) */
     :root {
       --blue-dark: #ffee00ff;
-      --blue-medium: #2f3a49ff;
+      --blue-medium: #ffee00ff;
       --blue-light: #fefeffff;
       --silver: #f8f8f8ff;
       --silver-light: #cf7171ff;
